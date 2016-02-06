@@ -40,7 +40,7 @@ var __videoMute = false; // mute
 countdown
 =================================================*/
 var __countdown = true; // countdown function, false to disable
-var __countdownDate = new Date(2016, 1 - 1, 21, 08); // (2015, 12 - 1, 24, 15) = 2016-12-24 Christmas Eve 3:00PM
+var __countdownDate = new Date(2016, 1 - 1, 23, 6); // (2015, 12 - 1, 24, 15) = 2016-12-24 Christmas Eve 3:00PM
 var __countdownTimezone = +4; // countdown timezone
 var __countdownDesc = ' Left'; // text under countdown
 
